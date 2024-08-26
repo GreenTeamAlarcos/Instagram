@@ -58,7 +58,8 @@ Report folder |
                        |
                        | 
     
-´´´
+```
+
 
 ## Resources folder
 This folder contains an example of Excel files with energy consumption data for each test case (Action).
