@@ -51,7 +51,6 @@ Report folder |
                    |
                    |
                    |
-
               | Tablet |   
                        |Posts |
                        |      | Action 1
