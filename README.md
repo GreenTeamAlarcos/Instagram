@@ -45,6 +45,7 @@ Inside each of them are the Excel files with the energy consumption measurements
 In addition, there are also the box plot diagrams for each of the actions.
 The structure of these folders is as follows:
 
+```
 Report folder |
               | PC | 
                    | Action 16
@@ -55,8 +56,9 @@ Report folder |
                        |Posts |
                        |      | Action 1
                        |
-                       |     
-
+                       | 
+    
+´´´
 
 ## Resources folder
 This folder contains an example of Excel files with energy consumption data for each test case (Action).
