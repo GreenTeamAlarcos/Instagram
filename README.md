@@ -79,5 +79,5 @@ Note: The rest of the logs of this study are not included in the repository for 
 
 [Green Team Alarcos](https://greenteamalarcos.uclm.es/)
 
-[The Computer Language Benchmark Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
+
 
