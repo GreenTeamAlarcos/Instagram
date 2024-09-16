@@ -74,6 +74,9 @@ DUT hardware components have two values because they have two sensors connected,
 
 Note: The rest of the logs of this study are not included in the repository for practical reasons, due to their large size.
 
+## Clustering Folder
+This folder contains the results obtained in the clustering tests.
+
 
 ## Contacts and References
 
